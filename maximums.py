@@ -22,8 +22,3 @@ def max_of_three(x, y, z):
         return x
     elif z == y:
         return y
-x=input()
-y=input()
-z=input()
-print(max_of_two(x,y))
-print(max_of_three(x, y, z))
